@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensor Toolkit</string>
+    <string name="title_level">Level</string>
+    <string name="title_compass">Compass</string>
+    <string name="title_barometer">Barometer</string>
+    <string name="title_g_force">G-Force Meter</string>
+    <string name="show_barometer">Show Barometer</string>
+    <string name="show_g_force_meter">Show G-Force Meter</string>
+    <string name="show_compass">Show Compass</string>
+    <string name="show_level_indicator">Show Builder Level</string>
+</resources>
